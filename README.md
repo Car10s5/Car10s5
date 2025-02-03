@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hola soy Carlos
 
 <!--
 **Car10s5/Car10s5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🕺 soy bailarin, desde muy pequeño me ha gustado esta forma de expresion 
+- 🌱 actuslmente estudio bioingenieria
+- 👯 me gustan laas teorias del zodiaco y soy cancer
+- 🏐 me gusta el voleibol y el hacer deporte
+- soy de Tunja 
+- 🍬 me gustan los dulces acidos y picantes
+- ✈ me gusta mucho viajar 
+- 🐴 me gustan los animales y colaborar en refugios
+- me gusta cocinar
 -->
