@@ -1,6 +1,5 @@
 ## Hola soy Carlos
 
-<!--
 **Car10s5/Car10s5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🕺 soy bailarin, desde muy pequeño me ha gustado esta forma de expresion 
@@ -12,4 +11,3 @@
 - ✈ me gusta mucho viajar 
 - 🐴 me gustan los animales y colaborar en refugios
 - me gusta cocinar
--->
